@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/zaindotdev" target="blank"><img src="https://img.shields.io/twitter/follow/zaindotdev?logo=twitter&style=for-the-badge" alt="zaindotdev" /></a> </p>
 
-- 🔭 I’m currently working on [True Feedback App](https://github.com/zaindotdev/truefeedback.git)
+- 🔭 I’m currently working on (DreamWeaver Studio.). A realtime collaborative story writing software with AI integrations for helping out in story writing and character generation.
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **javascript and react.**
+- 💬 Ask me about **Javascript and React.**
 
 - 📫 How to reach me **zaindeveloperr@gmail.com**
-
-- ⚡ Fun fact **I think I am funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
