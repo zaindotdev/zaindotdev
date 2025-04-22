@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Zain</h1>
-<h3 align="center">A passionate full stack developer from Pakistan.</h3>
+<h3 align="center">An ordinary full stack developer from Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaindotdev&label=Profile%20views&color=0e75b6&style=flat" alt="zaindotdev" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/zaindotdev" target="blank"><img src="https://img.shields.io/twitter/follow/zaindotdev?logo=twitter&style=for-the-badge" alt="zaindotdev" /></a> </p>
 
-- 🔭 I’m currently working on (DreamWeaver Studio.). A realtime collaborative story writing software with AI integrations for helping out in story writing and character generation.
+- 🔭 I’m currently working on a mobile app (fitness69) to keep track of my health and gym routines.
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Javascript and React.**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **zaindeveloperr@gmail.com**
 
