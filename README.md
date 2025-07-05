@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/zaindotdev" target="blank"><img src="https://img.shields.io/twitter/follow/zaindotdev?logo=twitter&style=for-the-badge" alt="zaindotdev" /></a> </p>
 
-- 🔭 I’m currently working on a mobile app (fitness69) to keep track of my health and gym routines.
+- 🔭 I’m currently working on a web app called interview-ai which helps you to prepare for the interviews and boost your confidence.
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Next JS**
 
 - 💬 Ask me about **MERN Stack**
 
